@@ -1,6 +1,7 @@
 {
 	"metadataAttributes": {
         "type": "histogram",
-        "language": "python"
+        "language": "python",
+        "description": "This file contains the best practices for creating histogram visualizations using the plotly python libraries. A bedrock agent is meant to learn from this example and generate a histogram from data located in the knowledgebase."
     }
 }
