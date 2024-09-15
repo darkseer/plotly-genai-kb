@@ -1,13 +1,7 @@
 {
-	"csv": {
-	  "embeddingAttributes": [
-	    "Quantity"     
-	  ],
-	  "metadataAttributes": [
-	    "Quantity"
-	  ],
-	  "index_id": [
-	 	"Quantity"
-	  ]
-	}
+	"metadataAttributes": {
+        "Quantity": "Integer",
+        "description": "This is a list of numbers that represents quatities of parts. The data will be used to make a histogram.",
+        "dataset": "histsample"
+    }
 }
