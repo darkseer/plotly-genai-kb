@@ -1,0 +1,7 @@
+{
+	"metadataAttributes": {
+        "data set name": "histogramsampledata",
+        "QTY": "Integer",
+        "description": "The CSV file contains integers ment to be converted into an array for a plotly histogram visualization"
+    }
+}
