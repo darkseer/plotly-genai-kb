@@ -1,18 +1,14 @@
 {
     "csv": {
-      "embeddingattributes": [
-        ""
+      "embeddingAttributes": [
+        "Quantity"
         
       ],
-      "metadataattributes": [
+      "metadataAttributes": [
         "Quantity"
       ],
       "index_id": [
         "Quantity"
       ]
     },
-    "metadataattributes" : {
-    	"dataset":"histogramsampledata"
-    }
-
 }
