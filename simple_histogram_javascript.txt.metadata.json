@@ -1,0 +1,8 @@
+{
+	"metadataAttributes": {
+        "type": "histogram",
+        "language": "javascript",
+        "name": "Simple Histogram",
+        "description": "This file contains template javascript code to create a histogram. The var x = [] line in the template code should be populated the data set specified. The data populating the array shoud be a list of integers or floats. The values should be inserted in between the square braces and seperated by commas."
+    }
+}
