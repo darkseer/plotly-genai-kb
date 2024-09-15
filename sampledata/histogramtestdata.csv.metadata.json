@@ -1,14 +1,13 @@
 {
-    "csv": {
-      "embeddingAttributes": [
-        "Quantity"
-        
-      ],
-      "metadataAttributes": [
-        "Quantity"
-      ],
-      "index_id": [
-        "Quantity"
-      ]
-    },
+	"csv": {
+	  "embeddingAttributes": [
+	    "Quantity"     
+	  ],
+	  "metadataAttributes": [
+	    "Quantity"
+	  ],
+	  "index_id": [
+	 	"Quantity"
+	  ]
+	}
 }
